@@ -6,8 +6,13 @@
 <body>
 	<?php
 	echo "Hello World";
-	<br>
-	echo "OUM ka !!!";
+
 	?>
+	<br>
+	<center>
+		<h1>Hello World</h1>
+		<br/>
+		<h1>Hello Oum Ka !!!</h1>
+	</center>
 </body>
 </html>
